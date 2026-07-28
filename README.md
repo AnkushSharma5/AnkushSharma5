@@ -92,7 +92,7 @@ I enjoy transforming data into meaningful insights and building real-world solut
 ## 📫 Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/ankush-sharma-360a5a331"/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
