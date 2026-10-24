@@ -184,9 +184,9 @@ CGPA: **8.51/10**
   <a href="https://github.com/AnkushSharma5">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://ankushsharma-dev.app.orvisai.com/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="https://ankush-sharmaportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
   <a href="mailto:ankushsharma59614@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
